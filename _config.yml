@@ -7,13 +7,15 @@ title: Jackie blogs
 subtitle: Work through it, hang in three.
 description:
 keywords:
-author: John Doe
-language:
+author: Long Cheng
+language: 
+  - zh-CN
+  - en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://296245482.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -75,6 +77,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: maupassant
 
+# RSS订阅
+plugin:
+  -hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
