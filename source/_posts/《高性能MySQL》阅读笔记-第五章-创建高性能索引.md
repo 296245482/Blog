@@ -4,7 +4,7 @@ date: 2019-04-30 23:50:17
 updated: 2019-04-30 23:50:17
 categories: tech
 tags:
-- Database
+- DB
 - MySQL
 description: 这个笔记主要是写一些自己原来理解不足、可能在以后可能会遇到的一些点，做下记录，日后自己也能回顾重温。
 toc: true

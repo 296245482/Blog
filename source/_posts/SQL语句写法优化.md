@@ -3,7 +3,7 @@ title: SQL语句写法优化
 date: 2018-07-04 17:26:36
 updated: 2018-07-04 17:30:00
 categories: tech
-tags: Database
+tags: DB
 description: 本文从SQL语句的层面上介绍了SQL语句的优化写法，当数据量达到一定程度时将会提高查询效率。
 
 ---

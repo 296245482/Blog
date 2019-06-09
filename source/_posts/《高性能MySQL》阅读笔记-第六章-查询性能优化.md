@@ -4,7 +4,7 @@ date: 2019-05-25 05:00:59
 updated: 2019-05-25 05:00:59
 categories: tech
 tags:
-- Database
+- DB
 - MySQL
 description: 第五章主要介绍了怎么设计良好的库表结构、如何建立良好的索引，这些只是高性能的前提，完整的高效还需要优秀的查询。本章主要将会介绍MySQL优化器的内部机制，如何执行查询，介绍查询的执行计划，同时也讨论了MySQL优化器的不足。
 toc: true

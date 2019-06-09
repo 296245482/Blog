@@ -5,7 +5,7 @@ updated: 2019-03-28 16:32:60
 categories: tech
 tags: 
     - MySQL
-    - Database
+    - DB
 description: 在定位了具体需要优化的单条SQL之后，我们可以有针对的对这条查询详细探究，获悉这条SQL为什么慢，这里主要介绍MySQL自带的相关方法，帮助我们很方便的测量各个部分花费的时间，这里简要介绍几个获取方法SHOW STATUS、SHOW PROFILE、慢查询日志、Performance Schema，具体的如何优化优化方法将在其他文章中阐述。
 
 ---
